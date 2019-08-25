@@ -1,0 +1,37 @@
+h1 {
+	color: black;
+	background-color: green;
+	border: 1px solid black;
+	text-align: center;
+	}
+
+section {
+	width: 80%;
+	}
+h3 {
+	color: black;
+	font-size: large;
+	background-color: green;
+	border: 1px solid black;
+	}
+
+p {
+	color: green;
+	}
+
+img {
+	border: 1px solid black;
+	}
+
+aside {
+	float: right;
+	}
+
+footer {
+	color: black;
+	font-size: medium;
+	background-color: green;
+	border: 1px solid black;
+	text-align: center;
+	}
+	
